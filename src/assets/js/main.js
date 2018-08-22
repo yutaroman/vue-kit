@@ -1,5 +1,3 @@
-"use strict";
-
 window.Vue = require('vue');
 
 document.addEventListener('DOMContentLoaded', function(e) {
